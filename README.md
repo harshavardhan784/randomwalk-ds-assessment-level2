@@ -1,5 +1,8 @@
 # RandomWalk Data Science Assessment
 
+[Watch the video here](https://www.youtube.com/watch?v=hvKluEk-Jps)
+
+
 ## Instructions:
 
 1) Fork the github repo into your personal Github account and take a clone into your local system.
